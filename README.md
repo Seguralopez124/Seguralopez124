@@ -1,4 +1,4 @@
-## Hi there 👋
+* <tt>musig()</tt> is not allowed in <tt>combo()</tt>: <tt>combo(musig(02f9308a019258c31049344f85f89d5229b531c845836f99b08601f113bce036f9,03dff1d77f2a671c5f36183726db2341be58feae1da2deced843240f7b502ba659,023590a94e768f8e1815c2f24b4d80a8e3149316c3518ce7b7ad338368d038ca66))</tt>
 
 <!--
 **Seguralopez124/Seguralopez124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
